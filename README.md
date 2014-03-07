@@ -1,4 +1,5 @@
-facebook-invite-all
-===================
+#Facebook Invite All
 
-Invite All Bookmarklet for Facebook Events
+Facebook Invite All is a simple javascript Bookmarklet that allows users to select all checkboxes on a web page. This is useful when trying to invite hundreds of people to a Facebook Event.
+
+Please Fork!
